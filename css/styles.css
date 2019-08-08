@@ -1,0 +1,10 @@
+.intro{
+  font-style: italic;
+}
+.author{
+  color: rgb(0, 255, 115);
+}
+p.author{
+  font-size: 15px;
+  background-color: rgba(235, 34, 128, 0.74)
+}
